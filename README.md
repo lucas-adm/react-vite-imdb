@@ -1,18 +1,20 @@
-# React + Vite
+<h3 align="center">Movies Lib</h3>
 
-## Para acessar o site <a href="https://react-vite-imdb.onrender.com">*clique aqui.*</a>
-
-> [IMDb API](https://developer.imdb.com/?ref_=header)
-
-<details>
+<div align="center">
   
-<summary></summary>
+  <img width="75px" height="75px" src="https://github.com/lucas-adm/react-vite-imdb/assets/118030896/6680421c-d62b-4fc1-8612-f633bae9ef1c">
+  <img width="75px" height="75px" src="https://github.com/lucas-adm/react-vite-imdb/assets/118030896/8f7db574-e33a-4729-b6b9-dc2c51951be9">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  ###### JavaScript, React, [IMDb API](https://developer.imdb.com/?ref_=header)
 
-Currently, two official plugins are available:
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ▶ Acesse a aplicação <a href="https://react-vite-imdb.onrender.com/">*aqui*</a>
 
-</details>
+#### 
+
+<div aling="center">
+  
+  ![](https://i.imgur.com/d1cMHqp.png)
+  
+</div>
